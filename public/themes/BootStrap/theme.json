@@ -1,8 +1,0 @@
-{
-    "name": "BootStarp",
-    "version": "1.0.0",
-    "description": "BootStarp for V3.4.1",
-    "disabled": true,
-    "language_routes": false,
-    "support_ie":false
-}

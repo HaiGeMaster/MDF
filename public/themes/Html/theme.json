@@ -1,8 +1,0 @@
-{
-    "name": "Html",
-    "version": "1.0.0",
-    "description": "Html Theme",
-    "disabled": true,
-    "language_routes": false,
-    "support_ie":true
-}
